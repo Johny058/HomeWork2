@@ -62,6 +62,6 @@ public class Main {
         System.out.println("Если в компании работает " + totalEmployee2 +
                 " человек, то всего " + oneDayEmployee2 +
                 " часов работы может быть поделено между сотрудниками");
-
+        System.out.println("Домашнее задание выполнено!");
     }
 }
